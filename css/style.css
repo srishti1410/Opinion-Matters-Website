@@ -1,0 +1,261 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: prater sans pro;
+}
+/*------------------------landing page-------------------------------*/
+body {
+     background-image: url('../image/frame.jpg');
+     background-repeat: no-repeat;
+     background-size: 3050px 1440px;
+
+}
+.text{
+	position: absolute;
+	top: 84.8%;
+	left: 53%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	letter-spacing: 5px;
+}
+
+.text a {
+	text-decoration: none;
+}
+
+.text h3 {
+	font-size: 55px;
+	/*line-height: 80px;*/
+	font-weight: 100;
+	display: inline-block;
+    color: #304C75;
+
+}
+.text h3:hover {
+	color:rgb(201,134,126);
+	transform: scale(1.1,1.1);
+/*	font-weight: 60px;*/
+}
+.img-wrapper {
+	padding: 30px;
+}
+/*---------------------------Question 1 to 4--------------------------------*/
+.textA h2:hover {
+    font-size: 50px;
+}
+.textA a{
+	text-decoration: none;
+	color: white;
+}
+.text1 {
+	position: absolute;
+	top: 75.5%;
+	left: 61.5%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	letter-spacing: 5px;
+}
+.text1 h2 {
+	font-size: 40px;
+	/*line-height: 80px;*/
+	font-weight: 100;
+	display: inline-block;
+}
+.text2 {
+	position: absolute;
+	top: 75.5%;
+	left: 80.5%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	letter-spacing: 5px;
+}
+.text2 h2 {
+	font-size: 40px;
+	/*line-height: 80px;*/
+	font-weight: 100;
+	display: inline-block;
+   color: white;
+}
+#svg-menu {
+	display: inline-block;
+	position: absolute;
+	top: 2%;
+	left: 2%;
+}
+
+
+/*-------------------------------menu------------------------------------*/
+.textB h2:hover {
+    font-size: 140px;
+}
+.textB a{
+	text-decoration: none;
+	color: #1E2D4C;
+}
+.text3 {
+	position: absolute;
+	top: 28.5%;
+	left: 20%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	letter-spacing: 5px;
+}
+.text3 h2 {
+	font-size: 120px;
+	line-height: 80px;
+	font-weight: 100;
+	display: inline-block;
+}
+.text4 {
+	position: absolute;
+	top: 58.5%;
+	left: 29%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	letter-spacing: 5px;
+}
+.text4 h2 {
+	font-size: 120px;
+	line-height: 80px;
+	font-weight: 100;
+	display: inline-block;
+	}
+.text5 {
+	position: absolute;
+	top: 92%;
+	left: 26%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	letter-spacing: 5px;
+}
+.text5 h2 {
+	font-size: 120px;
+	line-height: 80px;
+	font-weight: 100;
+	display: inline-block;
+	}
+.fa {
+	padding:5x;
+	color:rgb(201,134,126);
+	font-size: 40px;
+}
+#svg-exit {
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 2%;
+}
+/*------------------eye opener---------------------*/
+.fa-play {
+	color: white;
+}
+#svg-video-1 {
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 136.5%;
+	left: 17%;
+}
+#svg-video-2 {
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 136.5%;
+	left: 48.2%;
+}
+#svg-video-3 {
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 136.5%;
+	left: 79.4%;
+}
+#svg-video-4 {
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 172%;
+	left: 32%;
+}
+#svg-video-5 {
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 172%;
+	left: 63%;
+}
+#svg-video-6 {
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 208%;
+	left: 17%;
+}
+#svg-video-7 {
+	/*padding-left:150px;
+    padding-top:400px;*/
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 208%;
+	left: 48.2%;
+}
+#svg-video-8 {
+    color: white;
+	display: inline-block;
+	position: absolute;
+	top: 208%;
+	left: 79.4%;
+}
+	
+#text7 {
+    font-size: 28px;
+	display: inline-block;
+	position: absolute;
+	top: 394.5%;
+	left: 45%;
+	text-decoration: none;
+	color: white,
+	letter-spacing: 5px;
+}
+#text7 a:hover {
+	font-size: 45px;
+}
+/*------------------Your Say-------------------------*/
+#svg-add {
+	display: inline-block;
+	position: absolute;
+	top: 492.5%;
+	left: 92%;
+}
+/*---------------------------------Your Say 1 ----------------------------*/
+.textC h2:hover {
+    font-size: 45px;
+}
+.textC a{
+	text-decoration: none;
+	color: white;
+}
+.text6 {
+	position: absolute;
+	top: 95%;
+	left: 59.3%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	letter-spacing: 5px;
+}
+.text6 h2 {
+	font-size: 40px;
+	line-height: 80px;
+	font-weight: 100;
+	display: inline-block;
+	}
+
+/*---------------------your Say 2------------------------*/
+#svg-add1 {
+	display: inline-block;
+	position: absolute;
+	top: 2%;
+	left: 93.5%;
+}
+
